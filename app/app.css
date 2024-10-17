@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ActionBar {
+    background-color: #1c1c1e;
+    color: white;
+}
+
+.fa {
+    font-family: "FontAwesome";
+}
+
+.mini-player {
+    background-color: #1c1c1e;
+    color: white;
+}
+
+.full-player {
+    background-color: #1c1c1e;
+    color: white;
+}
+
+.bottom-nav {
+    background-color: #1c1c1e;
+    color: white;
+}
